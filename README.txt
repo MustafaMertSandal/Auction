@@ -1,1 +1,1 @@
-Açık artırma uygulamasında kimse başkasının teklifini görmeden teklif yapıyor ve en yüksek teklifi veren kazanıyor.
+Açık artırma uygulamasında herkes başkasının teklifini görmeden teklif yapıyor ve en yüksek teklifi veren kazanıyor.
